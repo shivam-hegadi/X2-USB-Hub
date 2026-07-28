@@ -9,6 +9,9 @@ A clever design is that I used 2 SL2.1S USB Controllers for double the ports. Th
 
 It is designed for portability, and it has an interesting beveled design.
 
+
+EasyEDA/OSHWLAB Link: <https://oshwlab.com/jlc9mmb5/project_wpitkgvw>
+
 # Cost
 It costs me 50$ (60 after shipping) to order 5 Assembled PCBs from JLCPCB. PCBWAY and NextPCB had super high prices. 
 
